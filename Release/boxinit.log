@@ -1,0 +1,43 @@
+﻿  BoxApp.cpp
+D:\Study\CPPStudy\DX12_Files\Code\第6章\Box\BoxApp.cpp(121,5): warning C4566: 由通用字符名称“\u7B2C”表示的字符不能在当前代码页(1252)中表示出来
+D:\Study\CPPStudy\DX12_Files\Code\第6章\Box\BoxApp.cpp(121,5): warning C4566: 由通用字符名称“\u7AE0”表示的字符不能在当前代码页(1252)中表示出来
+D:\Study\CPPStudy\DX12_Files\Code\第6章\Box\BoxApp.cpp(131,5): warning C4566: 由通用字符名称“\u7B2C”表示的字符不能在当前代码页(1252)中表示出来
+D:\Study\CPPStudy\DX12_Files\Code\第6章\Box\BoxApp.cpp(131,5): warning C4566: 由通用字符名称“\u7AE0”表示的字符不能在当前代码页(1252)中表示出来
+D:\Study\CPPStudy\DX12_Files\Code\第6章\Box\BoxApp.cpp(179,2): warning C4566: 由通用字符名称“\u7B2C”表示的字符不能在当前代码页(1252)中表示出来
+D:\Study\CPPStudy\DX12_Files\Code\第6章\Box\BoxApp.cpp(179,2): warning C4566: 由通用字符名称“\u7AE0”表示的字符不能在当前代码页(1252)中表示出来
+D:\Study\CPPStudy\DX12_Files\Code\第6章\Box\BoxApp.cpp(183,5): warning C4566: 由通用字符名称“\u7B2C”表示的字符不能在当前代码页(1252)中表示出来
+D:\Study\CPPStudy\DX12_Files\Code\第6章\Box\BoxApp.cpp(183,5): warning C4566: 由通用字符名称“\u7AE0”表示的字符不能在当前代码页(1252)中表示出来
+D:\Study\CPPStudy\DX12_Files\Code\第6章\Box\BoxApp.cpp(219,2): warning C4566: 由通用字符名称“\u7B2C”表示的字符不能在当前代码页(1252)中表示出来
+D:\Study\CPPStudy\DX12_Files\Code\第6章\Box\BoxApp.cpp(219,2): warning C4566: 由通用字符名称“\u7AE0”表示的字符不能在当前代码页(1252)中表示出来
+D:\Study\CPPStudy\DX12_Files\Code\第6章\Box\BoxApp.cpp(226,2): warning C4566: 由通用字符名称“\u7B2C”表示的字符不能在当前代码页(1252)中表示出来
+D:\Study\CPPStudy\DX12_Files\Code\第6章\Box\BoxApp.cpp(226,2): warning C4566: 由通用字符名称“\u7AE0”表示的字符不能在当前代码页(1252)中表示出来
+D:\Study\CPPStudy\DX12_Files\Code\第6章\Box\BoxApp.cpp(288,1): warning C4566: 由通用字符名称“\u7B2C”表示的字符不能在当前代码页(1252)中表示出来
+D:\Study\CPPStudy\DX12_Files\Code\第6章\Box\BoxApp.cpp(288,1): warning C4566: 由通用字符名称“\u7AE0”表示的字符不能在当前代码页(1252)中表示出来
+D:\Study\CPPStudy\DX12_Files\Code\第6章\Box\BoxApp.cpp(341,2): warning C4566: 由通用字符名称“\u7B2C”表示的字符不能在当前代码页(1252)中表示出来
+D:\Study\CPPStudy\DX12_Files\Code\第6章\Box\BoxApp.cpp(341,2): warning C4566: 由通用字符名称“\u7AE0”表示的字符不能在当前代码页(1252)中表示出来
+D:\Study\CPPStudy\DX12_Files\Code\第6章\Box\BoxApp.cpp(347,1): warning C4566: 由通用字符名称“\u7B2C”表示的字符不能在当前代码页(1252)中表示出来
+D:\Study\CPPStudy\DX12_Files\Code\第6章\Box\BoxApp.cpp(347,1): warning C4566: 由通用字符名称“\u7AE0”表示的字符不能在当前代码页(1252)中表示出来
+D:\Study\CPPStudy\DX12_Files\Code\第6章\Box\BoxApp.cpp(411,2): warning C4566: 由通用字符名称“\u7B2C”表示的字符不能在当前代码页(1252)中表示出来
+D:\Study\CPPStudy\DX12_Files\Code\第6章\Box\BoxApp.cpp(411,2): warning C4566: 由通用字符名称“\u7AE0”表示的字符不能在当前代码页(1252)中表示出来
+D:\Study\CPPStudy\DX12_Files\Code\第6章\Box\BoxApp.cpp(414,2): warning C4566: 由通用字符名称“\u7B2C”表示的字符不能在当前代码页(1252)中表示出来
+D:\Study\CPPStudy\DX12_Files\Code\第6章\Box\BoxApp.cpp(414,2): warning C4566: 由通用字符名称“\u7AE0”表示的字符不能在当前代码页(1252)中表示出来
+D:\Study\CPPStudy\DX12_Files\Code\第6章\Box\BoxApp.cpp(462,5): warning C4566: 由通用字符名称“\u7B2C”表示的字符不能在当前代码页(1252)中表示出来
+D:\Study\CPPStudy\DX12_Files\Code\第6章\Box\BoxApp.cpp(462,5): warning C4566: 由通用字符名称“\u7AE0”表示的字符不能在当前代码页(1252)中表示出来
+BoxApp.obj : error LNK2001: 无法解析的外部符号 "public: static float const MathHelper::Pi" (?Pi@MathHelper@@2MB)
+BoxApp.obj : error LNK2001: 无法解析的外部符号 "public: class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > __thiscall DxException::ToString(void)const " (?ToString@DxException@@QBE?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ)
+BoxApp.obj : error LNK2001: 无法解析的外部符号 "public: __thiscall DxException::DxException(long,class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > const &,class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > const &,int)" (??0DxException@@QAE@JABV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@0H@Z)
+BoxApp.obj : error LNK2001: 无法解析的外部符号 "public: static class Microsoft::WRL::ComPtr<struct ID3D10Blob> __cdecl d3dUtil::CompileShader(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > const &,struct _D3D_SHADER_MACRO const *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?CompileShader@d3dUtil@@SA?AV?$ComPtr@UID3D10Blob@@@WRL@Microsoft@@ABV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@PBU_D3D_SHADER_MACRO@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@6@2@Z)
+BoxApp.obj : error LNK2001: 无法解析的外部符号 "public: static class Microsoft::WRL::ComPtr<struct ID3D12Resource> __cdecl d3dUtil::CreateDefaultBuffer(struct ID3D12Device *,struct ID3D12GraphicsCommandList *,void const *,unsigned __int64,class Microsoft::WRL::ComPtr<struct ID3D12Resource> &)" (?CreateDefaultBuffer@d3dUtil@@SA?AV?$ComPtr@UID3D12Resource@@@WRL@Microsoft@@PAUID3D12Device@@PAUID3D12GraphicsCommandList@@PBX_KAAV234@@Z)
+BoxApp.obj : error LNK2001: 无法解析的外部符号 "protected: struct D3D12_CPU_DESCRIPTOR_HANDLE __thiscall D3DApp::DepthStencilView(void)const " (?DepthStencilView@D3DApp@@IBE?AUD3D12_CPU_DESCRIPTOR_HANDLE@@XZ)
+BoxApp.obj : error LNK2001: 无法解析的外部符号 "protected: struct D3D12_CPU_DESCRIPTOR_HANDLE __thiscall D3DApp::CurrentBackBufferView(void)const " (?CurrentBackBufferView@D3DApp@@IBE?AUD3D12_CPU_DESCRIPTOR_HANDLE@@XZ)
+BoxApp.obj : error LNK2001: 无法解析的外部符号 "protected: struct ID3D12Resource * __thiscall D3DApp::CurrentBackBuffer(void)const " (?CurrentBackBuffer@D3DApp@@IBEPAUID3D12Resource@@XZ)
+BoxApp.obj : error LNK2001: 无法解析的外部符号 "protected: void __thiscall D3DApp::FlushCommandQueue(void)" (?FlushCommandQueue@D3DApp@@IAEXXZ)
+BoxApp.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __thiscall D3DApp::OnResize(void)" (?OnResize@D3DApp@@MAEXXZ)
+BoxApp.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __thiscall D3DApp::CreateRtvAndDsvDescriptorHeaps(void)" (?CreateRtvAndDsvDescriptorHeaps@D3DApp@@MAEXXZ)
+BoxApp.obj : error LNK2001: 无法解析的外部符号 "public: virtual long __thiscall D3DApp::MsgProc(struct HWND__ *,unsigned int,unsigned int,long)" (?MsgProc@D3DApp@@UAEJPAUHWND__@@IIJ@Z)
+BoxApp.obj : error LNK2001: 无法解析的外部符号 "public: virtual bool __thiscall D3DApp::Initialize(void)" (?Initialize@D3DApp@@UAE_NXZ)
+BoxApp.obj : error LNK2001: 无法解析的外部符号 "public: int __thiscall D3DApp::Run(void)" (?Run@D3DApp@@QAEHXZ)
+BoxApp.obj : error LNK2001: 无法解析的外部符号 "public: float __thiscall D3DApp::AspectRatio(void)const " (?AspectRatio@D3DApp@@QBEMXZ)
+BoxApp.obj : error LNK2001: 无法解析的外部符号 "protected: virtual __thiscall D3DApp::~D3DApp(void)" (??1D3DApp@@MAE@XZ)
+BoxApp.obj : error LNK2001: 无法解析的外部符号 "protected: __thiscall D3DApp::D3DApp(struct HINSTANCE__ *)" (??0D3DApp@@IAE@PAUHINSTANCE__@@@Z)
+D:\Study\CPPStudy\dx12\boxinit\boxinit\Release\boxinit.exe : fatal error LNK1120: 17 个无法解析的外部命令

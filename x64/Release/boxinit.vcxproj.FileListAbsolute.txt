@@ -1,0 +1,2 @@
+D:\Study\CPPStudy\dx12\boxinit\boxinit\x64\Release\boxinit.exe
+G:\Study\CPPStudy\dx12\boxinit\boxinit\x64\Release\boxinit.exe
